@@ -1,21 +1,32 @@
 # terminal-and-markdown
 
-## Header 2
+# Hi, this is Header 1
+## Hi, this is Header 2
+### Hi, this is header 3
 
-*bullet one
-*bullet two
+* This is the first bullet
+* This is the second bullet
 
-## The Steps
+
+## Step List
 1. step one
 1. step two
 1. step three
 
 In order to add files to a commit, use `git add -A`
 
-*emphasize* **strong**
+*This text is italicized* 
+**This text is bold**
 
 The developer said: 
 > USE ACP
+
+Name|Breed|lbs
+---|---|---
+Spot | Black Lab | 60
+Fido | Chihuahua | 10
+Rex | Shepard | 95
+
 
 ```html
 <div>
